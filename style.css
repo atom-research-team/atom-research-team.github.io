@@ -21,10 +21,9 @@ nav {
 }
 
 header {
-    background-color: #fff;
-    color: #000;
     width: 100%;
     padding: 10px;
+    background: url('head.webp');
 }
 
 header h1 {
